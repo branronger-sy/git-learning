@@ -1,3 +1,3 @@
 console.log('config.js');
 console.log('version1');
-console.log("issam1");
+console.log("config");
